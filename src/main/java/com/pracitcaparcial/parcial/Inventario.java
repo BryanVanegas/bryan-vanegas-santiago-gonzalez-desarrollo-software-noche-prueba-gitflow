@@ -6,4 +6,8 @@ public class Inventario {
         System.out.println("EJECUTANDO METODO A");
     }
 
+    public void metodoB() {
+        System.out.println("EJECUTANDO METODO B");
+    }
+
 }
